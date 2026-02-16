@@ -17,4 +17,5 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
-![Hiroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=[あなたのGitHubユーザー名]&show_icons=true&theme=radical)
+![dashubei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dashubei&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashubei&layout=compact&theme=radical)
