@@ -2,12 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dashubei)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashubei&theme=onedark" />
-<div style="display: inline-flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dashubei&theme=onedark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashubei&theme=onedark" />
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Frontend & Backend
@@ -25,5 +19,8 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
-![dashubei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dashubei&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dashubei&layout=compact&theme=radical)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashubei&theme=onedark" />
+<div style="display: inline-flex;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dashubei&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashubei&theme=onedark" />
+</div>
