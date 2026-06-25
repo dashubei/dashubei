@@ -50,12 +50,6 @@ Web frontend engineer, working toward full-stack.
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📂 Projects
-
-- **[my-portfolio](https://github.com/dashubei/my-portfolio)** — Personal portfolio site (Astro, zero-JS, performance / SEO focused)
-- **[psycho-learn](https://github.com/dashubei/psycho-learn)** — A small learning site about CBT / ACT (Astro)
-- **[ippo](https://github.com/dashubei/ippo)** 🚧 — Social-anxiety exposure-logging app (React + Django) *— in progress*
-
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashubei&theme=onedark" />
